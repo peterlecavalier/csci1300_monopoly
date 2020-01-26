@@ -1,0 +1,41 @@
+-1/REGULAR/POKEMON/DISNEY PIXAR/RICK AND MORTY/THE OFFICE
+0/Go/Go/Go/Go/Go/
+1/Mediterranean Avenue/Brock's Gym #74 Geodude/Parr House/Harry Herpson High School/Diwali Gymnasium
+2/Community Chest/Trainer Battle/Piggy Bank/Inter-Dimensional Cable TV/RuDit-Dit-D'Doo!
+3/Baltic Avenue/Brock's Gym #95 Onix/Insuricare/Needful Things/Poor Richard's
+4/Income Tax - Pay 10% or $200/Gary Attacks! - Pay 10% or P200/Insuricare Premium - Pay 10% or $200/Parasites - Pay 10% or S200/Buy a Hug from Phyllis at Crime Aid Auction - Pay 10% or $200
+5/Reading Railroad/Poke Ball/The Incredibile/Bone Train/Forklift
+6/Oriental Avenue/Misty's Gym #120 Staryu/Edna Mode's Mansion/Anatomy Park/Darryl's House
+7/Chance/Professor Oak/Active Door/Get Schwifty!/That's What She Said!
+8/Vermont Avenue/Misty's Gym #121 Starmie/Syndrome's Base/Earth C-137/Angela's House
+9/Connecticut Avenue/Misty's Gym #116 Horsea/Nomanisan Island/Gazorpazorp/Dunder Mifflin Nashua
+10/Just Visiting Jail/Just Visiting Jail/Just Visiting Jail/Just Visiting Jail/Just Visiting Jail
+11/St. Charles Place/Lt. Surge's Gym #100 Voltorb/Gill's Pirate Skull/Blips and Chitz/Scranton Hospital
+12/Electric Company/Power Plant #145 Zapdos/Scream Power/Microverse/Serenity by Jan
+13/States Avenue/Lt. Surge's Gym #125 Electabuzz/Bubble's Treasure Chest/Gear World/Scranton Art Center
+14/Virginia Avenue/Lt. Surge's Gym #26 Raichu/Mount Wannahockaloogie/Jerryboree/Scranton Business School
+15/Pennsylvania Railroad/Great Ball/P. Sherman's Boat/Zigerion Ship/Lake Wallenpaupack Party Boat
+16/St. James Place/Erika's Gym #71 Victreebel/Marlin's Anemone/Fantasy World/Scranton Mall
+17/Community Chest/Trainer Battle/Piggy Bank/Inter-Dimensional Cable TV/RuDit-Dit-D'Doo!
+18/Tennessee Avenue/Erika's Gym #114 Tangela/East Australian Current/Pluto/Company Picnic Park
+19/New York Avenue/Erika's Gym #45 Vileplume/Great Barrier Reef/Purge Planet/David Wallace's House/
+20/Free Parking/Free Parking/Free Parking/Free Parking/Free Parking
+21/Kentucky Avenue/Sabrina's Gym #64 Kadabra/Sulley & Mike's Apartment/Nuptia 4/Taekwondo Dojo
+22/Chance/Professor Oak/Active Door/Get Schwifty!/That's What She Said!
+23/Indiana Avenue/Sabrina's Gym #122 Mr. Mime/Harryhausen's/Pawn Shop Planet/Statler Falls Hotel
+24/Illinois Avenue/Sabrina's Gym #49 Venomoth/Monsters, Inc./Unity's Planet/Lake Scranton
+25/B. & O. Railroad/Ultra Ball/Pizza Planet Delivery Truck/S.S. Independence/Korean Church Van
+26/Atlantic Avenue/Koga's Gym #109 Koffing/Zurg's Planet/St. Gloopy Noops Hospital/Jim & Pam's House
+27/Ventnor Avenue/Koga's Gym #89 Muk/Al's Apartment/Cromulon Dimension/Michael's Condo
+28/Water Works/Seafoam Islands #144 Articuno/Laugh Power/Miniverse/Dunder Mifflin Infinity
+29/Marvin Gardens/Koga's Gym #110 Weezing/Al's Toy Barn/Citadel of Ricks/Schrute Farms
+30/Go To Jail/Go To Jail/Go To Jail/Go To Jail/Go To Jail
+31/Pacific Avenue/Blaine's Gym #58 Growlithe/Blueberries' Clubhouse/Birdperson Planet/Cafe Disco
+32/North Carolina Avenue/Blaine's Gym #77 Ponyta/P.T. Flea's Circus/Planet Squanch/Vance Refrigeration
+33/Community Chest/Trainer Battle/Piggy Bank/Inter-Dimensional Cable TV/RuDit-Dit-D'Doo!
+34/Pennsylvania Avenue/Blaine's Gym #78 Rapidash/Ant Island/Dwarf Terrace 9/Dunder Mifflin Stamford
+35/Short Line/Master Ball/R.C./Beta 7 Ship/Dunder Mifflin Delivery Truck
+36/Chance/Professor Oak/Active Door/Get Schwifty!/That's What She Said!
+37/Park Place/Giovanni's Gym #31 Nidoqueen/Sid's Room/Morty's Bedroom/Dunder Mifflin Scranton
+38/Luxury Tax - Pay $75/Team Rocket Attacks! - Pay P75/Overnight Shipping to Japan - Pay $75/Morty Insurance - Pay S75/Donate to Rabies Fun Run - Pay $75
+39/Boardwalk/Giovanni's Gym #34 Nidoking/Andy's Room/Rick's Garage/Dunder Mifflin Corporate, NY
